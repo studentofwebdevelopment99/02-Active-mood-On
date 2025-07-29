@@ -1,3 +1,4 @@
 .env
 full-Ignore-me.js
 /01-Also-Ignore-me
+/node_modules
